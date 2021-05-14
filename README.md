@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
+https://i.pinimg.com/originals/9c/5d/36/9c5d3676a1da5fa8d2b8287efd120ecd.gif
 
 
 
