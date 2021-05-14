@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2 align="center">Puedes encontrarme en: </h2>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
+  <a href="https://medium.com/@mgiulianodamico">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjG8ba5XeTJgm9KcwjGqQr-0rT487gjIFVw-KTGDizIooPR4cV9c4NxApcPTKrd8pQUfw&usqp=CAU" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="80">
   </a>
 
