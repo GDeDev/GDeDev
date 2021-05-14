@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GDeDev)](https://github.com/anuraghazra/github-readme-stats)
+- name: Profile Readme Development Stats
+  uses: anmol098/waka-readme-stats@V3
+
 
 
 
