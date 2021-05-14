@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://dev.to/anhello">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Medium_logo_Wordmark_Black.svg/1280px-Medium_logo_Wordmark_Black.svg.png" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+    <img src="https://miro.medium.com/max/3404/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+  <a href="https://www.linkedin.com/in/marco-giuliano-damico-978452212/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+  <a href="https://twitter.com/DamicoGiuliano">
+    <img src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
 
   
