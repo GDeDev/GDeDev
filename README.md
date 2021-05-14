@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 # Marco Giuliano D'Amico
 
-<h2 align="center">About me</h2>
+<h3 align="center">Más informacion sobre mí en mi sitio personal</h3>
 
-<p align="center"Más informacion sobre mí en sitio personal</p>
 
 <p align="center">
   <a href="https://stackshare.io/anhello/my-personal-stack">
