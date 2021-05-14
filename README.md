@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://dev.to/anhello">
-    <img src="https://miro.medium.com/max/3404/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+    <img src="https://miro.medium.com/max/3404/1*jfdwtvU6V6g99q3G7gq7dQ.png" alt="Angel Santiago Jaime Zavala's DEV Profile" height="300" width="30">
   </a>
 
   <a href="https://www.linkedin.com/in/marco-giuliano-damico-978452212/">
