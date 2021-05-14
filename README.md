@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
  <p align="center"><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
 
-# Angel Jaime
+# Marco Giuliano D'Amico
 
 <h2 align="center">About me</h2>
+
+<p align="center"Más informacion sobre mí en sitio personal</p>
+
 <p align="center">
   <a href="https://stackshare.io/anhello/my-personal-stack">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
