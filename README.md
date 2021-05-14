@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 # Angel Jaime
 
 <h2 align="center">About me</h2>
+<p align="center">
+  <a href="https://stackshare.io/anhello/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+</p>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
