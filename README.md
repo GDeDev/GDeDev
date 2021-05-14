@@ -1,4 +1,4 @@
-### <h4 align="center"> ¡Hola a todos, soy GDeDev! 👋 </h4>
+### <h2 align="center"> ¡Hola a todos, soy GDeDev! 👋 </h2>
 
 <!--
 **GDeDev/GDeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
  <p align="center"><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
 
-# Marco Giuliano D'Amico
+# 
+### <h3 align="center"> Marco Giuliano D'Amico </h3>
+### <h4 align="center"> Desarrollador web y GrothMarketer </h4>
+
 
 <h3 align="center">  <a href="http://personal-website-eta-two.vercel.app/"> Más informacion sobre mí en mi sitio personal  </a> </h3>
 
