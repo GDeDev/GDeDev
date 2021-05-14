@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="center"><img src="https://i.pinimg.com/originals/9c/5d/36/9c5d3676a1da5fa8d2b8287efd120ecd.gif" alt="Synthwave" ></p>
+ <p align="center"><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
 
 
 
