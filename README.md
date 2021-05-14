@@ -1,4 +1,4 @@
-### ¡Hola a todos, soy GDeDev! 👋
+### <h4 align="center"> ¡Hola a todos, soy GDeDev! 👋 </h4>
 
 <!--
 **GDeDev/GDeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
