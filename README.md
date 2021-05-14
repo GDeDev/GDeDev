@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### <h4 align="center"> Desarrollador web y GrothMarketer </h4>
 
 
-<h3 align="center">  <a href="http://personal-website-eta-two.vercel.app/"> Más informacion sobre mí en mi sitio personal  </a> </h3>
+<h3 align="center">  <a href="http://personal-website-eta-two.vercel.app/"> Para más informacion podes acceder a mi sitio personal  </a> </h3>
 
 <h2 align="center">Puedes encontrarme en: </h2>
 
