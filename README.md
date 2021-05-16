@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   
 
 <h2 align="center">My stack :man_technologist:</h2>
-
 <p align="center">Herramientas que utilizo a diario o que he utilizado o trabajado en el pasado.</p>
 <p align="center">
   <a href="https://stackshare.io/gdedev/my-stack/main">
