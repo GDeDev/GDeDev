@@ -53,7 +53,7 @@ const GDeDev = {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
 
-  <a href="https://twitter.com/DamicoGiuliano">
+  <a href="https://twitter.com/GDeDev_">
     <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=mgiulianodamico@gmail.com&tf=cm">
