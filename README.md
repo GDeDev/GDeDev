@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev/API-React-Pixabay" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay" />
 </a>
 
 <a href="https://github.com/Davekibh/robofriends">
