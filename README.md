@@ -51,31 +51,31 @@ Here are some ideas to get you started:
 <h2 align="center">My Projects ⌨️ </h2>
   
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-Covid19-React&theme=tokyonight" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-Covid19-React&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Covid-Website&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Covid-Website&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Animacion-Planetas&theme=tokyonight" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Animacion-Planetas&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Calculadora&theme=tokyonight" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Calculadora&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=personal-Website-&theme=tokyonight" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=personal-Website-&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Wheater-Api_js&theme=tokyonight" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Wheater-Api_js&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
@@ -92,7 +92,13 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GDeDev&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
-
+<details>
+<summary> <b>📊 Some GitHub stats </b></summary>
+<p align="center">
+  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=GDeDev&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
+<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDeDev&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
+</p>
+</details>
 
 
 
