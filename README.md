@@ -72,15 +72,15 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=personal-Website-&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=personal-Website-&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Wheater-Api_js&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Wheater-Api_js&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Login-Auth&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Login-Auth&theme=tokyonight" />
 </a>
 <h2 align="center">Github stats :bar_chart:</h2>
 
