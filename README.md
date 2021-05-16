@@ -1,4 +1,7 @@
-### <h2 align="center"> ¡Hola a todos, soy GDeDev! 👋 </h2>
+<h1><p align="center">¡Hola a todos, Soy GDeDev! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+
+<p align="center" ><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
+
 
 <!--
 **GDeDev/GDeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +17,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <p align="center"><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
+
 
 # 
 ### <h3 align="center"> Marco Giuliano D'Amico </h3>
 ### <h4 align="center"> Desarrollador web y GrothMarketer </h4>
+### <p align="center"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > Un poco sobre mi...  </p>
 
+```javascript
+const GDeDev = {
+  Lugar: "Liniers",
+  Aficiones: [Futbol, Autos, Cocinar],
+  Clubes: [Vélez, Barcelona, River],
+  Selecciones: ["Argentina", "San Marino", "Italia"],
+  Comidas: ["Milanesa", "Asado", "Pastel de papa", "Chow Fun"],
+  HabilidadesPróximas: {
+                        Idioma: "Ingles",
+                        Lenguaje: "Node.js",
+                        Comunidad: "Blog Propio"
+                      },
+ Frase: "Si se puede imaginar, se puede programar"
+}
+```
 
 <h3 align="center">  <a href="http://personal-website-eta-two.vercel.app/"> Para más informacion podes acceder a mi sitio personal  </a> </h3>
 
@@ -37,6 +56,12 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/DamicoGiuliano">
     <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mgiulianodamico@gmail.com&tf=cm">
+    <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+  </a>
+  
+
+  
 
   
 
@@ -48,8 +73,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2 align="center">My Projects ⌨️ </h2>
-  
+
+  <details>
+<summary align="center" font-size: 16px;>  <b>My Projects ⌨️ </b> </summary>
+
+
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
 </a>
@@ -81,6 +109,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Login-Auth&theme=tokyonight" />
 </a>
+</details>
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Contador de visitas :eyes:</h4>
@@ -92,13 +121,9 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GDeDev&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 
-<details>
-<summary> <b>📊 Some GitHub stats </b></summary>
-<p align="center">
-  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=GDeDev&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
-<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDeDev&layout=compact&hide=HTML&langs_count=10&bg_color=0,EE82EE,FFFFFF&theme=graywhite"/>
-</p>
-</details>
+
+
+
 
 
 
