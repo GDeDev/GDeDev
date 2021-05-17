@@ -75,7 +75,7 @@ const GDeDev = {
 
 
   <details>
-  <summary align="center" font-size: 16px;>  <b> <h1 style="color:#2B213A" > My Projects ⌨️ </h1> </b> </summary>
+  <summary align="center" font-size: 16px;>  <b> <h2> My Projects ⌨️ </h2> </b> </summary>
 
 
 <a href="https://github.com/Davekibh/Background-generator">
