@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+    h1 { color: #2B213A; }
+  </style>
 
 # 
 ### <h3 align="center"> Marco Giuliano D'Amico </h3>
