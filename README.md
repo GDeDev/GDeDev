@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-    h1 { color: #2B213A; }
-  </style>
+
 
 # 
 ### <h3 align="center"> Marco Giuliano D'Amico </h3>
@@ -77,7 +75,7 @@ const GDeDev = {
 
 
   <details>
-  <summary align="center" font-size: 16px;>  <b> <h1 color=red > My Projects ⌨️ </h1> </b> </summary>
+  <summary align="center" font-size: 16px;>  <b> <h1 style="color:#FF0000" > My Projects ⌨️ </h1> </b> </summary>
 
 
 <a href="https://github.com/Davekibh/Background-generator">
