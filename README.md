@@ -36,7 +36,7 @@ const GDeDev = {
                         Lenguaje: "Node.js",
                         Comunidad: "Blog Propio"
                       },
- Frase: "Si se puede imaginar, se puede programar"
+ Frase: "Solos podemos hacer poco, juntos podemos hacer mucho"
 }
 ```
 
