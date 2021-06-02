@@ -40,7 +40,7 @@ const GDeDev = {
 }
 ```
 
-<h3 align="center">  <a href="http://personal-website-eta-two.vercel.app/"> Para más informacion podes acceder a mi sitio personal  </a> </h3>
+<h3 align="center">  <a href="https://mgiulianodamico.vercel.app/"> Para más informacion podes acceder a mi sitio personal  </a> </h3>
 
 <h2 align="center">Puedes encontrarme en: </h2>
 
@@ -78,35 +78,35 @@ const GDeDev = {
   <summary align="center" font-size: 16px;>  <b> <h2> My Projects ⌨️ </h2> </b> </summary>
 
 
-<a href="https://github.com/Davekibh/Background-generator">
+<a href="https://github.com/GDeDev/API-React-Pixabay">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/robofriends">
+<a href="https://github.com/GDeDev/API-Covid19-React">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-Covid19-React&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
+<a href="https://github.com/GDeDev/Covid-Website">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Covid-Website&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Chat-app">
+<a href="https://github.com/GDeDev/Animacion-Planetas">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Animacion-Planetas&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-App">
+<a href="https://github.com/GDeDev/Calculadora">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Calculadora&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=personal-Website-&theme=tokyonight" />
+<a href="https://github.com/GDeDev/mgiulianodamico">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=mgiulianodamico&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
+<a href="https://github.com/GDeDev/Wheater-Api_js">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Wheater-Api_js&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
+<a href="https://github.com/GDeDev/Login-Auth">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Login-Auth&theme=tokyonight" />
 </a>
 </details>
