@@ -122,9 +122,9 @@ const GDeDev = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GDeDev&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-
-
-
+<p align="center"><img src="
+https://github-profile-trophy.vercel.app/?username=GDeDev
+" alt="AnhellO :: Profile Stats" /> </p>
 
 
 
