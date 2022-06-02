@@ -1,4 +1,4 @@
-<h1><p align="center">¡Hola a todos, Soy GDeDev! <a href="https://rahulmahesh.me/"><img src="https://giphy.com/gifs/use-code-hopscotch-9dO6eZxWeDWwM" width="35px"></h1></a></p>
+<h1><p align="center">¡Hola a todos, Soy GDeDev! 👋 </h1></p>
 
 <p align="center" ><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
 
