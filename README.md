@@ -82,32 +82,16 @@ const GDeDev = {
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/GDeDev/API-Covid19-React">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-Covid19-React&theme=tokyonight" />
+<a href="https://github.com/GDeDev/API-React-Pixabay">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
 </a>
-
-<a href="https://github.com/GDeDev/Covid-Website">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Covid-Website&theme=tokyonight" />
+  
+ <a href="https://github.com/GDeDev/API-React-Pixabay">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
 </a>
-
-<a href="https://github.com/GDeDev/Animacion-Planetas">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Animacion-Planetas&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/GDeDev/Calculadora">
- <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Calculadora&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/GDeDev/mgiulianodamico">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=mgiulianodamico&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/GDeDev/Wheater-Api_js">
- <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Wheater-Api_js&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/GDeDev/Login-Auth">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=Login-Auth&theme=tokyonight" />
+  
+ <a href="https://github.com/GDeDev/API-React-Pixabay">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
 </a>
 </details>
 <h2 align="center">Github stats :bar_chart:</h2>
