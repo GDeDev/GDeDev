@@ -3,8 +3,8 @@
 <p  ><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
 <p>Campeón del mundo 2022 ⭐⭐⭐</p>
 # 
-### <h3 > Marco Giuliano D'Amico </h3>
-### <p > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" >About me...  </p>
+ <h3 > Marco Giuliano D'Amico </h3>
+ <p > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" >About me...  </p>
 
 <p>🚀I am a Full Stack Web Developer with experience in soft and technical skills in the area of Web Programming and in the development of digital products with Fintech and Edtech verticals.</p>
 <p>🎓 I'm currently working as a web development mentor at NUCBA and work for Freelancers projects.</p>
