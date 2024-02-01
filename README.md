@@ -33,7 +33,7 @@ const GDeDev = {
   Comidas: ["Milanesa", "Asado", "Pastel de papa", "Chow Fun"],
   HabilidadesPróximas: {
                         Idioma: "Ingles",
-                        Lenguaje: "Node.js",
+                        Lenguaje: "Testing",
                         Comunidad: "Blog Propio"
                       },
  Frase: "Solos podemos hacer poco, juntos podemos hacer mucho"
