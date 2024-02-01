@@ -1,109 +1,27 @@
-<h1><p align="center">¡Hola a todos, Soy GDeDev! 👋 </h1></p>
+<h1><p >¡Hola a todos, Soy GDeDev! 👋 </h1></p>
 
-<p align="center" ><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
-
-
-<!--
-**GDeDev/GDeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p  ><img src="https://i1.wp.com/68.media.tumblr.com/52b37ee624e11ec98a87c30113fa1509/tumblr_ofj89xJhTr1u6l4wto2_500.gif?resize=486%2C206&ssl=1" alt="Synthwave" ></p>
 
 # 
-### <h3 align="center"> Marco Giuliano D'Amico </h3>
-### <h4 align="center"> Desarrollador web y GrothMarketer </h4>
-### <p align="center"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" > Un poco sobre mi...  </p>
+### <h3 > Marco Giuliano D'Amico </h3>
+### <p > <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" >About me...  </p>
 
-```javascript
-const GDeDev = {
-  Lugar: "Liniers",
-  Aficiones: [Futbol, Autos, Cocinar],
-  Clubes: [Vélez, Barcelona, River],
-  Selecciones: ["Argentina", "San Marino", "Italia"],
-  Comidas: ["Milanesa", "Asado", "Pastel de papa", "Chow Fun"],
-  HabilidadesPróximas: {
-                        Idioma: "Ingles",
-                        Lenguaje: "Testing",
-                        Comunidad: "Blog Propio"
-                      },
- Frase: "Solos podemos hacer poco, juntos podemos hacer mucho"
-}
-```
+<p>🚀I am a Full Stack Web Developer with experience in soft and technical skills in the area of Web Programming and in the development of digital products with Fintech and Edtech verticals.</p>
+<p>🎓 I'm currently working as a web development mentor at NUCBA and work for Freelancers projects.</p>
+<p>📍 I’m currently learning Testing</p>
+<p>🌐 Visit my <a href="https://mgiulianodamico.vercel.app/"> portfolio website </a> for more information and to get in touch.</p>
 
-<h3 align="center">  <a href="https://mgiulianodamico.vercel.app/"> Para más informacion podes acceder a mi sitio personal  </a> </h3>
+<h2 >Github stats :bar_chart:</h2>
 
-<h2 align="center">Puedes encontrarme en: </h2>
+<h4 >Visitor Counter 👀</h4>
 
-<p align="center">
-  <a href="https://medium.com/@mgiulianodamico">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjG8ba5XeTJgm9KcwjGqQr-0rT487gjIFVw-KTGDizIooPR4cV9c4NxApcPTKrd8pQUfw&usqp=CAU" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="80">
-  </a>
+<p ><img src="https://profile-counter.glitch.me/{GDeDev}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-  <a href="https://www.linkedin.com/in/marco-giuliano-damico-978452212/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
-  </a>
+<h4 >Estadisticas del perfil 📈 </h4>
 
-  <a href="https://twitter.com/GDeDev_">
-    <img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-3.png" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=mgiulianodamico@gmail.com&tf=cm">
-    <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
-  </a>
-  
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDeDev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
-  
-
-  
-
-<h2 align="center">My stack :man_technologist:</h2>
-<p align="center">Herramientas que utilizo a diario o que he utilizado o trabajado en el pasado.</p>
-<p align="center">
-  <a href="https://stackshare.io/gdedev/my-stack/main">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
-
-
-  <details>
-  <summary align="center" font-size: 16px;>  <b> <h2> My Projects ⌨️ </h2> </b> </summary>
-
-
-<a href="https://github.com/GDeDev/API-React-Pixabay">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/GDeDev/API-React-Pixabay">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
-</a>
-  
- <a href="https://github.com/GDeDev/API-React-Pixabay">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
-</a>
-  
- <a href="https://github.com/GDeDev/API-React-Pixabay">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GDeDev&repo=API-React-Pixabay&theme=tokyonight" />
-</a>
-</details>
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Contador de visitas :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{GDeDev}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-
-<h4 align="center">Estadisticas del perfil 📈 </h4>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=GDeDev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="AnhellO :: Profile Stats" /> </p>
-
+<img height="137px"  src="https://github-readme-stats.vercel.app/api?username=GDeDev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 
 
